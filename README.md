@@ -33,3 +33,5 @@
 ```bash
 git clone https://github.com/tu-usuario/sentencia-oculta.git
 cd sentencia-oculta
+npm install
+npm run dev
